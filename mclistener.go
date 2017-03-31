@@ -1,5 +1,8 @@
 package main
 
+
+//doesn't work on windows!!
+
 import (
 	"fmt"
 	"net"
